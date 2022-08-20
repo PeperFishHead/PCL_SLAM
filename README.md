@@ -1,5 +1,5 @@
 # PCL_SLAM
-learning PCL and SLAM base on ROS
-author: marco cheung
-email:2396201870@qq.com
-date: 2022-08-21
+Author: marco cheung
+Email:2396201870@qq.com
+Date: 2022-08-21
+Descripe:learning PCL and SLAM base on ROS
